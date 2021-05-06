@@ -1,0 +1,466 @@
+{
+	"personalInfo": {
+		"myimg": "profilePic.png",
+		"fname": "Mobarak",
+		"lname": "Hosen",
+		"nick": "Shakil",
+		"address": {
+			"list": ["Hilara, Thalpara, 1945, Mirzapur, Tangail"
+			]
+		},
+		"email": "mh.ice.iu@gmail.com",
+		"mob": "+8801302531728"
+	},
+	"educations": [{
+
+			"periodStart": "May, 2015",
+			"periodEnd": "October, 2019",
+			"course": "Bachelor of Science in ICT",
+			"score": "CGPA: 3.37 out 4.00",
+			"inst": "Information & Communication Technology",
+			"board": "Islamic University, Kushtia-7003",
+			"courses": [{
+					"courseCode": "ICT101",
+					"courseName": "Fundamental of Information & Communication Technology",
+					"sn": 1
+
+				},
+				{
+					"courseCode": "ICT102",
+					"courseName": "Electricity & Electromagnetism",
+					"sn": 2
+
+				},
+				{
+					"courseCode": "ICT103",
+					"courseName": "Electric Devices & Circuits",
+					"sn": 3
+
+				},
+				{
+					"courseCode": "ICT104",
+					"courseName": "Digital Electronics",
+					"sn": 4
+
+				},
+				{
+					"courseCode": "ICT105",
+					"courseName": "Programming Language Concepts",
+					"sn": 5
+
+				},
+				{
+					"courseCode": "ICT106",
+					"courseName": "Discrete Mathemactics & Numerical Methods",
+					"sn": 6
+
+				},
+				{
+					"courseCode": "ICT107",
+					"courseName": "Algebra & Trigonometry",
+					"sn": 7
+
+				},
+				{
+					"courseCode": "ICT108",
+					"courseName": "Calculus & Diffirential Equations",
+					"sn": 8
+
+				},
+				{
+					"courseCode": "ICT201",
+					"courseName": "Operating Systems",
+					"sn": 11
+
+				},
+				{
+					"courseCode": "ICT202",
+					"courseName": "Data Structure & Algorithm",
+					"sn": 12
+
+				},
+				{
+					"courseCode": "ICT203",
+					"courseName": "Computer Architecture & Organization",
+					"sn": 13
+
+				},
+				{
+					"courseCode": "ICT204",
+					"courseName": "Object Oriented Programming with C++",
+					"sn": 14
+
+				},
+				{
+					"courseCode": "ICT205",
+					"courseName": "Electromagnetic Theory & Antenna",
+					"sn": 15
+
+				},
+				{
+					"courseCode": "ICT206",
+					"courseName": "Communication Systems",
+					"sn": 16
+
+				},
+				{
+					"courseCode": "ICT207",
+					"courseName": "Electronic Communication & MIcrowave Engineering",
+					"sn": 17
+
+				},
+				{
+					"courseCode": "ICT208",
+					"courseName": "Statistics for Communication Engineering",
+					"sn": 18
+
+				},
+				{
+					"courseCode": "ICT209",
+					"courseName": "Geometry & Vector Analysis",
+					"sn": 19
+
+				},
+				{
+					"courseCode": "ICT301",
+					"courseName": "Database Management Systems",
+					"sn": 22
+
+				},
+				{
+					"courseCode": "ICT302",
+					"courseName": "Data Communication & Computer Networking",
+					"sn": 23
+
+				},
+				{
+					"courseCode": "ICT303",
+					"courseName": "Telecommunication Systems Engineering",
+					"sn": 24
+
+				},
+				{
+					"courseCode": "ICT304",
+					"courseName": "Programming with Java",
+					"sn": 25
+
+				},
+				{
+					"courseCode": "ICT305",
+					"courseName": "Microprocessor & Interfacing",
+					"sn": 26
+
+				},
+				{
+					"courseCode": "ICT306",
+					"courseName": "Optical Communications",
+					"sn": 27
+
+				},
+				{
+					"courseCode": "ICT307",
+					"courseName": "Mathematics for Communication Engineering",
+					"sn": 28
+
+				},
+				{
+					"courseCode": "ICT308",
+					"courseName": "Computer Graphics",
+					"sn": 29
+
+				},
+				{
+					"courseCode": "ICT401",
+					"courseName": "Information & COding Transmission",
+					"sn": 34
+
+				},
+				{
+					"courseCode": "ICT402",
+					"courseName": "Mobile & Cellular Communication",
+					"sn": 35
+
+				},
+				{
+					"courseCode": "ICT403",
+					"courseName": "System Analysis & Software Engineering",
+					"sn": 36
+
+				},
+				{
+					"courseCode": "ICT404",
+					"courseName": "MIS & Strategic Planning",
+					"sn": 37
+
+				},
+				{
+					"courseCode": "ICT405",
+					"courseName": "Data Warehouse & Mining",
+					"sn": 38
+
+				},
+				{
+					"courseCode": "ICT406",
+					"courseName": "Multimedia Communications",
+					"sn": 39
+
+				},
+				{
+					"courseCode": "ICT407",
+					"courseName": "Artificial Intelligence & Expert Systems",
+					"sn": 40
+
+				},
+				{
+					"courseCode": "ICT408",
+					"courseName": "Digital Signal Processing",
+					"sn": 41
+
+				},
+				{
+					"courseCode": "ICT409",
+					"courseName": "Digital Image Processing",
+					"sn": 42
+
+				}
+
+			]
+		},
+		{
+
+			"periodStart": "June, 2012",
+			"periodEnd": "June, 2014",
+			"course": "Higher Secondary Certificate",
+			"score": "GPA: 4.50 out 5.00",
+			"inst": "Government M M Ali College",
+			"board": "Kagmari, Tangail",
+			"courses": [{
+					"courseCode": "041",
+					"courseName": "Mathemactics",
+					"sn": 1
+				},
+				{
+					"courseCode": "042",
+					"courseName": "Physics",
+					"sn": 2
+				},
+				{
+					"courseCode": "043",
+					"courseName": "Chemistry",
+					"sn": 4
+				},
+				{
+					"courseCode": "044",
+					"courseName": "Biology",
+					"sn": 5
+				},
+				{
+					"courseCode": "031",
+					"courseName": "Bangla",
+					"sn": 6
+				},
+				{
+					"courseCode": "032",
+					"courseName": "English",
+					"sn": 3
+				}
+			]
+		},
+		{
+
+			"periodStart": "January, 2007",
+			"periodEnd": "February, 2012",
+			"course": "Secondary School Certificate",
+			"score": "GPA: 4.25 out of 5.00",
+			"inst": "Hilara Adabari M A High School",
+			"board": "Mirzapur, Tangail",
+            "courses": [{
+					"courseCode": "041",
+					"courseName": "Mathemactics",
+					"sn": 1
+				},
+				{
+					"courseCode": "042",
+					"courseName": "Physics",
+					"sn": 2
+				},
+				{
+					"courseCode": "043",
+					"courseName": "Chemistry",
+					"sn": 4
+				},
+				{
+					"courseCode": "044",
+					"courseName": "Biology",
+					"sn": 5
+				},
+				{
+					"courseCode": "031",
+					"courseName": "Bangla",
+					"sn": 6
+				},
+				{
+					"courseCode": "032",
+					"courseName": "English",
+					"sn": 3
+				}
+			]
+		}
+	],
+	"skills": [
+		{
+			"sn": 1,
+			"name": "C++",
+			"icon": "M117.5 33.5l.3-.2c-.6-1.1-1.5-2.1-2.4-2.6l-48.3-27.8c-.8-.5-1.9-.7-3.1-.7-1.2 0-2.3.3-3.1.7l-48 27.9c-1.7 1-2.9 3.5-2.9 5.4v55.7c0 1.1.2 2.3.9 3.4l-.2.1c.5.8 1.2 1.5 1.9 1.9l48.2 27.9c.8.5 1.9.7 3.1.7 1.2 0 2.3-.3 3.1-.7l48-27.9c1.7-1 2.9-3.5 2.9-5.4v-55.8c.1-.8 0-1.7-.4-2.6zm-35.5 32.5v-4h5v-5h5v5h5v4h-5v5h-5v-5h-5zm3.3-14c-4.2-7.5-12.2-12.5-21.3-12.5-13.5 0-24.5 11-24.5 24.5s11 24.5 24.5 24.5c9.1 0 17.1-5 21.3-12.4l12.9 7.6c-6.8 11.8-19.6 19.8-34.2 19.8-21.8 0-39.5-17.7-39.5-39.5s17.7-39.5 39.5-39.5c14.7 0 27.5 8.1 34.3 20l-13 7.5zm29.7 14h-5v5h-4v-5h-6v-4h6v-5h4v5h5v4z"
+		},
+		{
+			"sn": 2,
+			"name": "Python",
+			"icon": "M49.33 62h29.159c8.117 0 14.511-6.868 14.511-15.019v-27.798c0-7.912-6.632-13.856-14.555-15.176-5.014-.835-10.195-1.215-15.187-1.191-4.99.023-9.612.448-13.805 1.191-12.355 2.181-14.453 6.751-14.453 15.176v10.817h29v4h-40.224000000000004c-8.484 0-15.914 5.108-18.237 14.811-2.681 11.12-2.8 17.919 0 29.53 2.075 8.642 7.03 14.659 15.515 14.659h9.946v-13.048c0-9.637 8.428-17.952 18.33-17.952zm-1.838-39.11c-3.026 0-5.478-2.479-5.478-5.545 0-3.079 2.451-5.581 5.478-5.581 3.015 0 5.479 2.502 5.479 5.581-.001 3.066-2.465 5.545-5.479 5.545zM122.281 48.811c-2.098-8.448-6.103-14.811-14.599-14.811h-10.682v12.981c0 10.05-8.794 18.019-18.511 18.019h-29.159c-7.988 0-14.33 7.326-14.33 15.326v27.8c0 7.91 6.745 12.564 14.462 14.834 9.242 2.717 17.994 3.208 29.051 0 7.349-2.129 14.487-6.411 14.487-14.834v-11.126h-29v-4h43.682c8.484 0 11.647-5.776 14.599-14.66 3.047-9.145 2.916-17.799 0-29.529zm-41.955 55.606c3.027 0 5.479 2.479 5.479 5.547 0 3.076-2.451 5.579-5.479 5.579-3.015 0-5.478-2.502-5.478-5.579 0-3.068 2.463-5.547 5.478-5.547z"
+		},
+		{
+			"sn": 5,
+			"name": "MySQL",
+			"icon": "M125.477 122.783l-2.616-2.537c-2.479-3.292-5.668-6.184-9.015-8.585-2.669-1.916-8.661-4.504-9.775-7.609l-.205-.195c1.893-.214 4.103-.898 5.85-1.367 2.934-.786 5.356-.583 8.386-1.365 1.366-.39 2.899-.781 3.899-1.171v-.78c-1-1.571-2.427-3.651-4.097-5.073-4.369-3.72-9.041-7.437-13.951-10.537-2.723-1.718-6.041-2.835-8.926-4.292-.971-.491-2.652-.746-3.294-1.562-1.517-1.932-2.328-4.382-3.498-6.633-2.449-4.717-4.849-9.868-7.019-14.831-1.48-3.384-2.443-6.72-4.289-9.756-8.86-14.567-18.395-23.358-33.167-32-3.145-1.838-6.929-2.563-10.929-3.513-2.144-.129-4.291-.26-6.437-.391-1.311-.546-2.674-2.149-3.902-2.927-4.896-3.092-17.449-9.817-21.074-.975-2.289 5.581 3.42 11.025 5.462 13.854 1.435 1.982 3.27 4.207 4.293 6.438.675 1.467.79 2.938 1.367 4.489 1.418 3.822 2.651 7.98 4.487 11.511.927 1.788 1.949 3.67 3.122 5.268.718.981 1.95 1.413 2.145 2.927-1.204 1.686-1.273 4.304-1.95 6.44-3.05 9.615-1.898 21.567 2.537 28.683 1.36 2.186 4.566 6.871 8.975 5.073 3.856-1.57 3.226-6.438 4.329-10.732.249-.972-.185-1.688.815-2.341v.195c1 2.341 2.11 4.683 3.282 7.024 2.6 4.187 6.889 8.562 10.798 11.514 2.027 1.531 3.92 4.177 5.92 5.073v-.101h.221c-.507-1-1.302-1.167-1.95-1.804-1.527-1.496-3.226-3.382-4.487-5.097-3.556-4.827-6.698-10.122-9.561-15.622-1.368-2.626-2.557-5.529-3.709-8.201-.443-1.03-.438-2.592-1.364-3.125-1.263 1.958-3.122 3.54-4.099 5.853-1.561 3.696-1.762 8.204-2.341 12.877-.343.122-.19.038-.391.194-2.718-.655-3.672-3.452-4.683-5.853-2.555-6.07-3.029-15.843-.781-22.829.582-1.809 3.211-7.501 2.146-9.172-.508-1.665-2.184-2.63-3.121-3.903-1.161-1.574-2.319-3.646-3.123-5.464-2.091-4.731-3.066-10.044-5.268-14.828-1.053-2.287-2.832-4.602-4.293-6.634-1.617-2.253-3.429-3.912-4.684-6.635-.445-.968-1.051-2.518-.39-3.513.21-.671.507-.951 1.171-1.17 1.133-.873 4.283.29 5.463.779 3.129 1.3 5.741 2.5 8.392 4.256 1.271.844 2.559 1.89 4.097 2.89h1.756c2.747 0 5.824.232 8.391 1.012 4.535 1.379 8.6 3.542 12.292 5.873 11.246 7.102 20.441 17.22 26.732 29.278 1.012 1.942 1.45 3.799 2.341 5.858 1.798 4.153 4.064 8.428 5.853 12.489 1.786 4.053 3.526 8.142 6.05 11.514 1.327 1.772 6.451 2.724 8.78 3.709 1.633.689 4.308 1.409 5.854 2.34 2.953 1.782 5.814 3.904 8.586 5.855 1.384.974 5.64 3.114 5.853 4.878-6.863-.188-12.104.452-16.585 2.341-1.273.537-3.305.552-3.513 2.147.7.733.809 1.829 1.365 2.731 1.069 1.73 2.876 4.052 4.488 5.268 1.762 1.33 3.576 2.751 5.464 3.902 3.359 2.047 7.107 3.217 10.341 5.268 1.906 1.21 3.958 2.733 5.815 4.097.92.675.891 1.724 2.891 2.147v-.194c-.999-.795-.946-1.893-1.522-2.728zM29.514 23.465c-1.431-.027-2.514.157-3.514.389v.146h.198c.683 1 1.888 2.33 2.731 3.538l1.952 4.108.193-.187c1.209-.853 1.763-2.211 1.756-4.291-.483-.509-.556-1.146-.974-1.754-.558-.809-1.639-1.268-2.342-1.949z"
+		},
+		{
+			"sn": 8,
+			"name": "Git",
+			"icon": "M124.737 58.378l-55.116-55.114c-3.172-3.174-8.32-3.174-11.497 0l-11.444 11.446 14.518 14.518c3.375-1.139 7.243-.375 9.932 2.314 2.703 2.706 3.461 6.607 2.294 9.993l13.992 13.993c3.385-1.167 7.292-.413 9.994 2.295 3.78 3.777 3.78 9.9 0 13.679-3.78 3.78-9.901 3.78-13.683 0-2.842-2.844-3.545-7.019-2.105-10.521l-13.048-13.048-.002 34.341c.922.455 1.791 1.063 2.559 1.828 3.778 3.777 3.778 9.898 0 13.683-3.779 3.777-9.904 3.777-13.679 0-3.778-3.784-3.778-9.905 0-13.683.934-.933 2.014-1.638 3.167-2.11v-34.659c-1.153-.472-2.231-1.172-3.167-2.111-2.862-2.86-3.551-7.06-2.083-10.576l-14.313-14.313-37.792 37.79c-3.175 3.177-3.175 8.325 0 11.5l55.117 55.114c3.174 3.174 8.32 3.174 11.499 0l54.858-54.858c3.174-3.176 3.174-8.327-.001-11.501z"
+		},
+		{
+			"sn": 10,
+			"name": "Ubuntu",
+			"icon": "M64 3.246c-33.555 0-60.755 27.2-60.755 60.754 0 33.552 27.2 60.754 60.755 60.754 33.554 0 60.755-27.202 60.755-60.754 0-33.554-27.2-60.754-60.755-60.754zm13.631 20.922c2.242-3.881 7.2-5.21 11.08-2.972 3.88 2.242 5.208 7.2 2.966 11.08-2.238 3.88-7.197 5.208-11.077 2.967-3.877-2.239-5.206-7.198-2.969-11.075zm-13.631 4.595c3.262 0 6.417.453 9.414 1.281.529 3.259 2.463 6.262 5.548 8.042 3.079 1.775 6.642 1.953 9.725.789 5.998 5.898 9.901 13.919 10.47 22.854l-11.558.17c-1.067-12.103-11.222-21.593-23.599-21.593-3.565 0-6.948.792-9.98 2.203l-5.637-10.099c4.708-2.33 10.01-3.647 15.617-3.647zm-41.311 43.349c-4.482 0-8.113-3.632-8.113-8.112 0-4.481 3.63-8.113 8.113-8.113 4.479 0 8.111 3.631 8.111 8.113 0 4.479-3.632 8.112-8.111 8.112zm7.191.722c2.561-2.09 4.2-5.271 4.2-8.834 0-3.565-1.639-6.747-4.2-8.836 2.194-8.489 7.475-15.738 14.571-20.483l5.931 9.934c-6.092 4.287-10.074 11.369-10.074 19.385s3.981 15.098 10.074 19.383l-5.931 9.937c-7.099-4.744-12.38-11.995-14.571-20.486zm58.831 33.964c-3.879 2.241-8.838.912-11.077-2.969-2.241-3.877-.911-8.835 2.969-11.076 3.877-2.239 8.838-.908 11.077 2.969 2.24 3.88.91 8.839-2.969 11.076zm-.024-17.673c-3.083-1.166-6.645-.991-9.725.788-3.084 1.783-5.019 4.782-5.547 8.042-2.998.83-6.153 1.284-9.415 1.284-5.607 0-10.909-1.318-15.616-3.649l5.636-10.1c3.032 1.411 6.415 2.204 9.98 2.204 12.378 0 22.532-9.488 23.596-21.592l11.561.169c-.569 8.935-4.472 16.956-10.47 22.854z"
+		},
+		{
+			"sn": 11,
+			"name": "HTML5",
+			"icon": "M9.032 2l10.005 112.093 44.896 12.401 45.02-12.387 10.015-112.107h-109.936zm89.126 26.539l-.627 7.172-.276 3.289h-52.665000000000006l1.257 14h50.156000000000006l-.336 3.471-3.233 36.119-.238 2.27-28.196 7.749v.002l-.034.018-28.177-7.423-1.913-21.206h13.815000000000001l.979 10.919 15.287 4.081h.043v-.546l15.355-3.875 1.604-17.579h-47.698l-3.383-38.117-.329-3.883h68.939l-.33 3.539z"
+		},
+		{
+			"sn": 13,
+			"name": "CSS3",
+			"icon": "M8.76 1l10.055 112.883 45.118 12.58 45.244-12.626 10.063-112.837h-110.48zm89.591 25.862l-3.347 37.605.01.203-.014.467v-.004l-2.378 26.294-.262 2.336-28.36 7.844v.001l-.022.019-28.311-7.888-1.917-21.739h13.883l.985 11.054 15.386 4.17-.004.008v-.002l15.443-4.229 1.632-18.001h-32.282999999999994l-.277-3.043-.631-7.129-.331-3.828h34.748999999999995l1.264-14h-52.926l-.277-3.041-.63-7.131-.332-3.828h69.281l-.331 3.862z"
+		},
+		{
+			"sn": 14,
+			"name": "Bootstrap",
+			"icon": "M75.701 65.603c-2.334-.768-5.694-.603-10.08-.603h-17.621v23h18.844c2.944 0 5.012-.315 6.203-.535 2.099-.376 3.854-1.104 5.264-1.982 1.409-.876 2.568-2.205 3.478-3.881.908-1.676 1.363-3.637 1.363-5.83 0-2.568-.658-4.54-1.975-6.436-1.316-1.896-3.141-2.965-5.476-3.733zM73.282 55.087c2.317-.688 4.064-1.89 5.239-3.487 1.176-1.598 1.763-3.631 1.763-6.044 0-2.286-.549-4.314-1.646-6.054s-2.662-2.413-4.699-3.056c-2.037-.641-5.53-.446-10.48-.446h-15.459v20h16.587c4.042 0 6.939-.38 8.695-.913zM126 18.625c0-9.182-7.443-16.625-16.625-16.625h-91.75c-9.182 0-16.625 7.443-16.625 16.625v91.75c0 9.182 7.443 16.625 16.625 16.625h91.75c9.182 0 16.625-7.443 16.625-16.625v-91.75zm-35.447 66.12c-1.362 2.773-3.047 4.911-5.052 6.415-2.006 1.504-4.521 2.78-7.544 3.548-3.022.769-6.728 1.292-11.113 1.292h-27.844v-69h27.42c5.264 0 9.485.609 12.665 2.002 3.181 1.395 5.671 3.497 7.474 6.395 1.801 2.898 2.702 5.907 2.702 9.071 0 2.945-.8 5.708-2.397 8.308-1.598 2.602-4.011 4.694-7.237 6.292 4.166 1.222 7.37 3.304 9.61 6.248 2.24 2.945 3.36 6.422 3.36 10.432 0 3.227-.681 6.225-2.044 8.997z"
+		}
+	],
+	"experince": [
+		{
+			"sn": 6,
+			"link": "https://www.facebook.com/groups/icecoder/",
+			"workPosition": "Trainer & Executive Member",
+			"periodStart": "January, 2019",
+			"periodEnd": "June, 2019",
+			"organisation": "Programming Club, SAICT",
+			"details": "<h6>Dept. of Information & Communication Technology</h6><h6>Islamic University, Kushtia - 7003</h6><p>(This club mainly focus on problem solving & competitive programming. It was a great experience for me to be a part of this club.)</p>",
+			"type": "volunteer"
+		}
+	],
+	"projects": [
+		{
+			"sn": 2,
+			"projectTitle": "Blood Point : An Android App",
+			"periodStart": "November, 2018",
+			"periodEnd": "December, 2018",
+			"toolsUsed": ["Android Studio", "Firebase", "Google Maps"],
+			"tags": ["Android", "Apps", "blood-bank"],
+			"shortInfo": "A blood management android application can help to blood donor and those who needs blood indeed.",
+			"link": "https://imShakil.github.io/BloodBank"
+		},
+		{
+		    "sn": 4,
+		    "projectTitle": "IoT based : Home Automation through wifi router",
+		    "periodStart": "November, 2019",
+		    "periodEnd": "December, 2019", 
+		    "toolsUsed": ["Micro-controller", "Router", "Sensors", "ESP Module"],
+		    "tags": ["#IoT", "home-automation", "wireless-control"],
+		    "shortInfo": "This project will be very usefull in an home/office automation system.",
+		    "link": "https://github.com/imShakil/IoTProjects/tree/master/HomeAutomation"
+		},
+		{
+			"sn": 3,
+			"projectTitle": "Projects on Machine Learning",
+			"periodStart": "August, 2019",
+			"periodEnd": "October, 2019",
+			"toolsUsed":["Pycharm", "Jupyter", "Notebook", "Conda", "Tensor-flow", "Keras"],
+			"tags": ["ML", "machine-learning", "NLP", "AI", "keras", "pycharm", "tensor-flow"],
+			"shortInfo": "I've done some of this machine learning project to utilise statistics & analytical knowledge.",
+			"link": "https://imShakil.github.io/MachineLearning"
+		}
+
+	],
+	"summary": "<p></p>",
+	"profileLinks": [
+		{
+			"name": "Github",
+			"icon": "github.svg",
+			"link": "https://github.com/imShakil",
+			"sn": 1
+		},
+		{
+			"name": "Twitter",
+			"icon": "twitter.svg",
+			"link": "https://twitter.com/mhiceiuk",
+			"sn": 4
+		},
+		{
+		    "name": "Facebook",
+		    "icon": "facebook.svg",
+		    "link": "https://fb.com/mhiceiuk",
+		    "sn": 3
+		},
+		{
+		    "name": "Linkedin",
+		    "icon": "linkedin.svg",
+		    "link": "https://linkedin.com/in/imShakil",
+		    "sn": 2
+		},
+		{
+		    "name": "Stack Overflow",
+		    "icon": "stack-overflow.png",
+		    "link": "https://stackoverflow.com/users/8284665",
+		    "sn": 6
+		}
+	],
+	"likes": [
+		{
+			"name": "Programming",
+			"icon": "programming.svg",
+			"sn": 1
+		},
+		{
+			"name": "Reading",
+			"icon": "book.svg",
+			"sn": 4
+		},
+		{
+			"name": "Eating",
+			"icon": "chicken.svg",
+			"sn": 2
+		},
+		{
+			"name": "Travel Tracking",
+			"icon": "trek.svg",
+			"sn": 3
+		},
+		{
+			"name": "Camping",
+			"icon": "tent.svg",
+			"sn": 5
+		}
+	],
+	"qoutes": [
+		"You only live as long as the last person who remembers you.",
+		"My code is more clear and recognizable than handwriting.",
+		"Your death is something that happens to everyone else.",
+		"Don't underestimate the power of knowledge.",
+		"Never be high, Learn until die."
+
+	],
+	"helloText": "<p>Hi, I'm a Computer science enthusiast. Recently I've completed my <b>B.Sc(Engg)</b> on <b>Information & Communication Technology(ICT)</b> from <b>Islamic University, Kushtia, Bangladesh</b>.</p><p>I've a covetous motive of making a valuable contribution on modern day industry with my programming skills and towards a better future.</p>"
+}
